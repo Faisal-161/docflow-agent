@@ -80,6 +80,10 @@ make api      # http://localhost:8000/docs
 
 Docker: `cp .env.example .env && docker compose up --build`
 
+### Deploy the demo (free)
+
+On [Streamlit Community Cloud](https://share.streamlit.io): **Create app** → this repo, branch `main`, main file `ui/app.py`. It installs `ui/requirements.txt` plus Tesseract from `packages.txt`.
+
 ### Use Claude
 
 ```bash
