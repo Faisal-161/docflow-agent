@@ -1,0 +1,15 @@
+BILLING STATEMENT
+Remit to Northwind Cloud Services LLC
+Ref NW-80084
+Dated October 17, 2026
+Terms Net 30, due 11/01/2026
+Our order ref PO-2190
+
+2 x Managed database plan @ 420.00 = 840.00
+10 x Same-day courier @ 48.75 = 487.50
+384 x Cloud compute hours @ 0.85 = 326.40
+3 x Data labeling batch @ 650.00 = 1,950.00
+
+Net amount 3,603.90
+Tax 288.31
+Total payable USD 3,892.21

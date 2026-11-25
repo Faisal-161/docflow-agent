@@ -1,0 +1,15 @@
+BILLING STATEMENT
+Remit to Bluepeak Logistics Ltd
+Ref BPL-12764
+Dated September 12, 2026
+Terms Net 30, due 10/12/2026
+Our order ref PO-2208
+
+4 x HVAC maintenance @ 310.00 = 1,240.00
+9 x Annotation QA review @ 95.00 = 855.00
+1789 x Cloud compute hours @ 0.85 = 1,520.65
+1 x Expedited handling fee @ 400.00 = 400.00
+
+Net amount 4,015.65
+Tax 0.00
+Total payable USD 4,015.65

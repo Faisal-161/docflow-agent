@@ -1,0 +1,26 @@
+name: ci
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: sudo apt-get update && sudo apt-get install -y tesseract-ocr poppler-utils
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -e ".[api,mcp,dev]"
+      - run: ruff check .
+      - run: pytest -q
+      - name: Evaluate on dev and held-out sets
+        run: |
+          python eval/run_eval.py dataset
+          python eval/run_eval.py holdout
+      - uses: actions/upload-artifact@v4
+        with:
+          name: eval-results
+          path: eval/results_*.json

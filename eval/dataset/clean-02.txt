@@ -1,0 +1,14 @@
+Supplier: Northwind Cloud Services LLC
+Customer: Contoso Health Inc.
+
+Invoice Number: NW-78236
+Issue Date: 29 September 2026
+Due By: 2026-10-29
+PO: PO-2202
+
+Service  Qty  Price  Amount
+HVAC maintenance  4  310.00  1,240.00
+
+Subtotal 1,240.00
+VAT 108.50
+Balance Due USD 1,348.50

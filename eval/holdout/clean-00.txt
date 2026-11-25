@@ -1,0 +1,13 @@
+BILLING STATEMENT
+Remit to Bluepeak Logistics Ltd
+Ref BPL-8602
+Dated October 17, 2026
+Terms Net 30, due 12/01/2026
+Our order ref PO-2203
+
+1 x Same-day courier @ 48.75 = 48.75
+2 x Annotation QA review @ 95.00 = 190.00
+
+Net amount 238.75
+Tax 0.00
+Total payable USD 238.75

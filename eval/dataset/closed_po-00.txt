@@ -1,0 +1,15 @@
+TAX INVOICE
+Vendor: Northwind Cloud Services LLC
+Invoice # NW-88580 | Date: 11/12/2026
+Payment Due: Dec 27, 2026
+Reference PO: PO-2190
+Bill To: Contoso Health Inc.
+
+Item  Qty  Rate  Line Total
+Freight shipping pallet  5  135.00  675.00
+Cloud compute hours  1123  0.85  954.55
+Toner cartridge black  4  89.50  358.00
+
+Sub-total USD 1,987.55
+Sales Tax USD 173.91
+Amount Due USD 2,161.46

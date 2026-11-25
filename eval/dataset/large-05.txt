@@ -1,0 +1,17 @@
+TAX INVOICE
+Vendor: Orion Data Labs Inc.
+Invoice # ODL-16713 | Date: 10/01/2026
+Payment Due: Oct 31, 2026
+Reference PO: PO-2205
+Bill To: Contoso Health Inc.
+
+Item  Qty  Rate  Line Total
+HVAC maintenance  9  310.00  2,790.00
+Standing desk frame  2  389.00  778.00
+Ergonomic office chair  3  249.00  747.00
+Printer paper A4 box  2  24.99  49.98
+Annual service contract  1  6,400.00  6,400.00
+
+Sub-total USD 10,764.98
+Sales Tax USD 0.00
+Amount Due USD 10,764.98

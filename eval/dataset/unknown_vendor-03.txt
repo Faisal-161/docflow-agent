@@ -1,0 +1,13 @@
+TAX INVOICE
+Vendor: Quartz Media Group Inc.
+Invoice # ZC-4617 | Date: 11/08/2026
+Payment Due: Dec 08, 2026
+Reference PO: PO-2203
+Bill To: Contoso Health Inc.
+
+Item  Qty  Rate  Line Total
+Managed database plan  6  420.00  2,520.00
+
+Sub-total USD 2,520.00
+Sales Tax USD 220.50
+Amount Due USD 2,740.50

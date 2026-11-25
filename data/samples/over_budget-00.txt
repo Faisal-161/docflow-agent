@@ -1,0 +1,15 @@
+Supplier: Acme Office Supplies Inc.
+Customer: Contoso Health Inc.
+
+Invoice Number: INV-55496
+Issue Date: 09 November 2026
+Due By: 2026-12-09
+PO: PO-2207
+
+Service  Qty  Price  Amount
+Same-day courier  7  48.75  341.25
+Expedited handling fee  1  400.00  400.00
+
+Subtotal 741.25
+VAT 59.30
+Balance Due USD 800.55

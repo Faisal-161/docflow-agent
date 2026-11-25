@@ -1,0 +1,14 @@
+Supplier: Quartz Media Group Inc.
+Customer: Contoso Health Inc.
+
+Invoice Number: ZC-68033
+Issue Date: 26 October 2026
+Due By: 2026-12-10
+PO: PO-2201
+
+Service  Qty  Price  Amount
+Printer paper A4 box  1  24.99  24.99
+
+Subtotal 24.99
+VAT 2.00
+Balance Due USD 26.99

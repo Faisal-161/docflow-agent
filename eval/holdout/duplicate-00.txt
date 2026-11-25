@@ -1,0 +1,12 @@
+BILLING STATEMENT
+Remit to Acme Office Supplies Inc.
+Ref INV-1040
+Dated October 15, 2026
+Terms Net 30, due 10/30/2026
+Our order ref PO-2201
+
+1 x Data labeling batch @ 650.00 = 650.00
+
+Net amount 650.00
+Tax 56.87
+Total payable USD 706.87

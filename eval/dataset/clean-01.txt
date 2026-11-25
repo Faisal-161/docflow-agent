@@ -1,0 +1,13 @@
+TAX INVOICE
+Vendor: Acme Office Supplies Inc.
+Invoice # INV-29657 | Date: 09/04/2026
+Payment Due: Sep 19, 2026
+Reference PO: PO-2201
+Bill To: Contoso Health Inc.
+
+Item  Qty  Rate  Line Total
+Data labeling batch  1  650.00  650.00
+
+Sub-total USD 650.00
+Sales Tax USD 0.00
+Amount Due USD 650.00

@@ -1,0 +1,12 @@
+BILLING STATEMENT
+Remit to Northwind Cloud Services LLC
+Ref NW-1536
+Dated October 4, 2026
+Terms Net 30, due 11/03/2026
+Our order ref PO-2202
+
+10 x Janitorial service visit @ 180.00 = 1,800.00
+
+Net amount 1,800.00
+Tax 90.00
+Total payable USD 1,890.00

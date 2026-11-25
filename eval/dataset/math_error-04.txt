@@ -1,0 +1,13 @@
+TAX INVOICE
+Vendor: Bluepeak Logistics Ltd
+Invoice # BPL-91957 | Date: 09/30/2026
+Payment Due: Oct 30, 2026
+Reference PO: PO-2203
+Bill To: Contoso Health Inc.
+
+Item  Qty  Rate  Line Total
+Toner cartridge black  1  89.50  89.50
+
+Sub-total USD 89.50
+Sales Tax USD 4.48
+Amount Due USD 103.98

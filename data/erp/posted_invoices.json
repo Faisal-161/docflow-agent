@@ -1,0 +1,7 @@
+[
+  {"vendor_id": "V-1001", "invoice_number": "INV-1040", "total": 412.50},
+  {"vendor_id": "V-1002", "invoice_number": "NW-88190", "total": 3299.00},
+  {"vendor_id": "V-1003", "invoice_number": "BPL-5512", "total": 1870.00},
+  {"vendor_id": "V-1004", "invoice_number": "GF-0311", "total": 960.00},
+  {"vendor_id": "V-1005", "invoice_number": "ODL-7001", "total": 7450.00}
+]

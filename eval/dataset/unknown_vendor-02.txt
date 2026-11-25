@@ -1,0 +1,19 @@
+Quartz Media Group Inc.
+123 Market Street, Springfield, IL 62701
+
+INVOICE
+Invoice No: ZC-26313
+Invoice Date: 2026-09-04
+Due Date: Oct 19, 2026
+PO Number: PO-2201
+Bill To: Contoso Health Inc., 500 Lake Ave, Chicago, IL
+
+Description  Qty  Unit Price  Amount
+Janitorial service visit  5  180.00  900.00
+Freight shipping pallet  4  135.00  540.00
+
+Subtotal: $1,440.00
+Tax (5%): $72.00
+Total: $1,512.00
+
+Please remit payment within the terms above. Thank you for your business.

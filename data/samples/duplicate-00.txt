@@ -1,0 +1,14 @@
+Supplier: Orion Data Labs Inc.
+Customer: Contoso Health Inc.
+
+Invoice Number: ODL-7001
+Issue Date: 24 October 2026
+Due By: 2026-12-08
+PO: PO-2205
+
+Service  Qty  Price  Amount
+Data labeling batch  1  650.00  650.00
+
+Subtotal 650.00
+VAT 0.00
+Balance Due USD 650.00

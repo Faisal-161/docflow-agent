@@ -1,0 +1,22 @@
+Orion Data Labs Inc.
+123 Market Street, Springfield, IL 62701
+
+INVOICE
+Invoice No: ODL-7572
+Invoice Date: 2026-10-11
+Due Date: Oct 26, 2026
+PO Number: PO-2205
+Bill To: Contoso Health Inc., 500 Lake Ave, Chicago, IL
+
+Description  Qty  Unit Price  Amount
+Ergonomic office chair  1  249.00  249.00
+Cloud compute hours  1386  0.85  1,178.10
+Managed database plan  12  420.00  5,040.00
+Annotation QA review  9  95.00  855.00
+Annual service contract  1  6,400.00  6,400.00
+
+Subtotal: $13,722.10
+Tax (0%): $0.00
+Total: $13,722.10
+
+Please remit payment within the terms above. Thank you for your business.

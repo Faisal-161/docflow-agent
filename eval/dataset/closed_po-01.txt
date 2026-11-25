@@ -1,0 +1,16 @@
+Supplier: Northwind Cloud Services LLC
+Customer: Contoso Health Inc.
+
+Invoice Number: NW-37655
+Issue Date: 04 October 2026
+Due By: 2026-11-03
+PO: PO-2190
+
+Service  Qty  Price  Amount
+Printer paper A4 box  3  24.99  74.97
+Janitorial service visit  8  180.00  1,440.00
+Freight shipping pallet  4  135.00  540.00
+
+Subtotal 2,054.97
+VAT 164.40
+Balance Due USD 2,219.37

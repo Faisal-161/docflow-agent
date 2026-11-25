@@ -1,0 +1,12 @@
+BILLING STATEMENT
+Remit to Northwind Cloud Services LLC
+Ref NW-31403
+Dated September 23, 2026
+Terms Net 30, due 10/08/2026
+Our order ref PO-2202
+
+1 x HVAC maintenance @ 310.00 = 310.00
+
+Net amount 310.00
+Tax 0.00
+Total payable USD 310.00

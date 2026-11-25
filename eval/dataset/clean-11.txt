@@ -1,0 +1,14 @@
+Supplier: Acme Office Supplies Inc.
+Customer: Contoso Health Inc.
+
+Invoice Number: INV-1074
+Issue Date: 09 November 2026
+Due By: 2026-12-24
+PO: PO-2201
+
+Service  Qty  Price  Amount
+Annotation QA review  1  95.00  95.00
+
+Subtotal 95.00
+VAT 4.75
+Balance Due USD 99.75

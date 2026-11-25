@@ -1,0 +1,14 @@
+BILLING STATEMENT
+Remit to Bluepeak Logistics Ltd
+Ref BPL-51020
+Dated September 1, 2026
+Terms Net 30, due 10/01/2026
+Our order ref PO-2203
+
+1 x HVAC maintenance @ 310.00 = 310.00
+5 x Freight shipping pallet @ 135.00 = 675.00
+646 x Cloud compute hours @ 0.85 = 549.10
+
+Net amount 1,534.10
+Tax 122.73
+Total payable USD 1,666.83

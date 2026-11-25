@@ -1,0 +1,16 @@
+BILLING STATEMENT
+Remit to Northwind Cloud Services LLC
+Ref NW-99322
+Dated October 20, 2026
+Terms Net 30, due 12/04/2026
+Our order ref PO-2202
+
+11 x Data labeling batch @ 650.00 = 7,150.00
+6 x Standing desk frame @ 389.00 = 2,334.00
+11 x Printer paper A4 box @ 24.99 = 274.89
+2 x Janitorial service visit @ 180.00 = 360.00
+1 x Annual service contract @ 6,400.00 = 6,400.00
+
+Net amount 16,518.89
+Tax 0.00
+Total payable USD 16,518.89

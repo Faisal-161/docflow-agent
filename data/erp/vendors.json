@@ -1,0 +1,8 @@
+[
+  {"id": "V-1001", "name": "Acme Office Supplies", "aliases": ["Acme Office"], "status": "active", "email": "billing@acme-office.example", "currency": "USD"},
+  {"id": "V-1002", "name": "Northwind Cloud Services", "aliases": ["Northwind Cloud"], "status": "active", "email": "ar@northwind.example", "currency": "USD"},
+  {"id": "V-1003", "name": "Bluepeak Logistics", "aliases": [], "status": "active", "email": "invoices@bluepeak.example", "currency": "USD"},
+  {"id": "V-1004", "name": "Greenleaf Facilities", "aliases": ["Greenleaf"], "status": "active", "email": "accounts@greenleaf.example", "currency": "USD"},
+  {"id": "V-1005", "name": "Orion Data Labs", "aliases": [], "status": "active", "email": "finance@oriondata.example", "currency": "USD"},
+  {"id": "V-1006", "name": "Summit Print Co", "aliases": ["Summit Printing"], "status": "blocked", "email": "billing@summitprint.example", "currency": "USD"}
+]

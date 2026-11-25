@@ -1,0 +1,17 @@
+Greenleaf Facilities Co.
+123 Market Street, Springfield, IL 62701
+
+INVOICE
+Invoice No: GF-96817
+Invoice Date: 2026-10-30
+Due Date: Nov 29, 2026
+Bill To: Contoso Health Inc., 500 Lake Ave, Chicago, IL
+
+Description  Qty  Unit Price  Amount
+Standing desk frame  1  389.00  389.00
+
+Subtotal: $389.00
+Tax (8.75%): $34.04
+Total: $423.04
+
+Please remit payment within the terms above. Thank you for your business.

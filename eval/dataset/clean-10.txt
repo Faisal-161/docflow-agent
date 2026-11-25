@@ -1,0 +1,14 @@
+TAX INVOICE
+Vendor: Greenleaf Facilities Co.
+Invoice # GF-67542 | Date: 11/04/2026
+Payment Due: Nov 19, 2026
+Reference PO: PO-2204
+Bill To: Contoso Health Inc.
+
+Item  Qty  Rate  Line Total
+Janitorial service visit  12  180.00  2,160.00
+Printer paper A4 box  12  24.99  299.88
+
+Sub-total USD 2,459.88
+Sales Tax USD 196.79
+Amount Due USD 2,656.67

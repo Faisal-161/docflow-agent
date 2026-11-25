@@ -1,0 +1,14 @@
+BILLING STATEMENT
+Remit to Northwind Cloud Services LLC
+Ref NW-65447
+Dated September 21, 2026
+Terms Net 30, due 10/06/2026
+Our order ref PO-2190
+
+8 x Toner cartridge black @ 89.50 = 716.00
+8 x Freight shipping pallet @ 135.00 = 1,080.00
+1007 x Cloud compute hours @ 0.85 = 855.95
+
+Net amount 2,651.95
+Tax 0.00
+Total payable USD 2,651.95
